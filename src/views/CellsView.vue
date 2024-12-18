@@ -1,3 +1,7 @@
+<script setup>
+import content from '@/components/cell/content.vue';
+</script>
+
 <template>
-  <section></section>
+  <content />
 </template>
